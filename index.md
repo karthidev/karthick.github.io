@@ -1,1 +1,1 @@
-<h1> Welocme Page </h1>
+<h1> Wellcome Page </h1>
