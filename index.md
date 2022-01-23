@@ -5,12 +5,12 @@
   <ul>
     <li>
       <a>
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-shadow-tal-revivo.png"/>Laravel
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-shadow-tal-revivo.png"  width="20"/>Laravel
       </a>
     </li>
       <li>
       <a>
-      <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/>PHP
+      <img src="https://img.icons8.com/officel/16/000000/php-logo.png"   width="20"/> PHP
       </a>
     </li>
   </ul>
