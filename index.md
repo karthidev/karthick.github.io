@@ -3,7 +3,7 @@
   <ul>
     <li>
   <p> Everyone Calling Me as Karthick, Born in Small Village in Kancheepuram and Studied one of the Prestigious School in Kancheepuram Were Arignar Anna Studied and Graduated as Engineer in 2017 in Chennai and then I started to Working towards My Dream to Start my Own Software Company and To Make some Contribution From My Side to the Society. </p>
-  <h1> Professional Skills </h1>Everyone Calling Me as Karthick, Born in Small Village in Kancheepuram and Studied one of the Prestigious School in Kancheepuram Were Arignar Anna Studied and Graduated as Engineer in 2017 in Chennai and then I started to Working towards My Dream to Start my Own Software Company and To Make some Contribution From My Side to the Society.
+  <h1> Professional Skills </h1>
   </ul>
   </li>
   <ul>
